@@ -28,10 +28,3 @@ A Vampire Survivors inspired mobile game built from scratch in Unity.
 ### Controls
 - **Move**: Left Joystick/WASD/Arrow Keys
 - **Use items**: Right DPad/ZXCV/1234
-
-## Credit
-### Art
-- [Kenney](https://www.kenney.nl/assets)
-- [Bonsaiheldin](https://opengameart.org/content/gold-treasure-icons-16x16)
-### Fonts
-- [Noto Sans CJK TC](https://fonts.google.com/noto/specimen/Noto+Sans+TC/about)
