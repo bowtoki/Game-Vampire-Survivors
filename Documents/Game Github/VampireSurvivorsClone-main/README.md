@@ -1,4 +1,4 @@
-# VampireSurvivorsClone
+# VampireSurvivors
 <p align="center">
   <kbd>
     <img src="https://github.com/matthiasbroske/VampireSurvivorsClone/assets/82914350/03974781-70b2-45ed-bbd6-7148efcebbd7" alt="Demo"/>
